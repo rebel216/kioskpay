@@ -1,7 +1,0 @@
-{
-    "ccavenue" : {
-        "RSAKeyUrl" :"https://test.ccavenue.com/transaction/getRSAKey",
-        "workingKey" : "A615B333B067179BECBE9DDE7C59F9CA",
-        "accessCode" :"AVPQ42KC70BY58QPYB"
-    }
-}

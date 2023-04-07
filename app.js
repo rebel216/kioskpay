@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 const cors = require('cors');
 app.use(cors())
-const port = 2000;
+const port = 10000;
 
 // middlewares
 app.use(express.json({ extended: false }));

@@ -51,7 +51,7 @@ router.post("/success", async (req, res) => {
 
         // THE PAYMENT IS LEGIT & VERIFIED
         // YOU CAN SAVE THE DETAILS IN YOUR DATABASE IF YOU WANT
-        
+
 
         res.json({
             msg: "success",
